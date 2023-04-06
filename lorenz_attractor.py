@@ -1,3 +1,4 @@
+#ManimGL v.1.6.1
 from manimlib import *
 from scipy.integrate import odeint
 
