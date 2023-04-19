@@ -1,3 +1,4 @@
+# ManimGL v1.6.1
 from manimlib import *
 from scipy.integrate import odeint
 from math import sin, cos
